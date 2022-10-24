@@ -1,2 +1,2 @@
 # Language-model-with-Numerical-Data
-Using numerical and categorical data with a language model to classify reviews.
+Using numerical and categorical data with a language model to classify reviews. It uses the multimodal_transformers along with huggingface libraries to classify amazon reviews based on numerical/categorical data and text. I trained the language model to predict the star rating given in the review. This example is designed to be very easy to modify to run on another dataset for learning or practical use.
